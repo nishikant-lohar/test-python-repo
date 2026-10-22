@@ -79,6 +79,6 @@ typing-extensions==3.10.0.0
 typing-inspect==0.7.1
 uritemplate==3.0.1
 urllib3==1.26.5
-wcwidth==0.2.5
+wcwidth==0.9.3
 wrapt==1.12.1
 zipp==3.4.1
