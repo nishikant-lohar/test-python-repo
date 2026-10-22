@@ -17,7 +17,7 @@ decorator==5.0.9
 dparse==0.5.1
 firebase-admin==5.0.0
 freezegun==1.0.0
-google-api-core==1.30.0
+google-api-core==2.42.0
 google-api-python-client==2.9.0
 google-auth==1.32.0
 google-auth-httplib2==0.1.0
