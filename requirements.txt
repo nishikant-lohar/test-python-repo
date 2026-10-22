@@ -19,7 +19,7 @@ firebase-admin==5.0.0
 freezegun==1.0.0
 google-api-core==1.30.0
 google-api-python-client==2.9.0
-google-auth==1.32.0
+google-auth==2.62.0
 google-auth-httplib2==0.1.0
 google-cloud-bigquery==2.18.0
 google-cloud-core==1.7.0
