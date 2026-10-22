@@ -71,7 +71,7 @@ rsa==4.7.2
 safety==1.10.3
 sendgrid==6.7.0
 six==1.16.0
-soupsieve==2.2.1
+soupsieve==3.0.4
 starkbank-ecdsa==1.1.1
 toml==0.10.2
 typed-ast==1.4.3
