@@ -38,7 +38,7 @@ importlib-metadata==4.5.0
 inflect==5.3.0
 isort==5.9.1
 lazy-object-proxy==1.6.0
-libcst==0.3.19
+libcst==1.9.0
 marshmallow==3.12.1
 mccabe==0.6.1
 mock==3.0.5
